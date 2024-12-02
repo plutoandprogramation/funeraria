@@ -1,0 +1,15 @@
+<nav class="layout">
+    <img src="" alt="logo jardim Celeste">
+    <div class="incio">
+        <a href="">Inicio</a>
+    </div>
+    <div class="sobre_n">
+        <a href="">Sobre Nós</a>
+    </div>
+    <div class="serviços">
+        <a href="">Nossos Serviços</a>
+    </div>
+    <div class="Fale_cnc">
+        <a href="">Fale Conosco</a>
+    </div>
+   </nav>
